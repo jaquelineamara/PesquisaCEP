@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-flow: column;
+    max-width: 310px;
+    font-style :italic, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color: rgb(193, 166, 219);
+}
+
+form > * {
+    margin: 7px;
+}
+
+p {
+    text-align: right;
+    margin-top: 6%;
+    font-style :italic, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
